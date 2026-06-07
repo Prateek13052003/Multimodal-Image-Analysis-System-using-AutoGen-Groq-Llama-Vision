@@ -1,6 +1,6 @@
 ## What This Project Does
 
-This notebook explores the full stack of **multimodal AI engineering** — from running LLMs locally to sending images to cloud vision APIs and building a chained multi-agent pipeline that produces structured reports. It is a hands-on lab covering five distinct areas:
+This notebook explores the full stack of **multimodal AI engineering** — from running LLMs locally to sending images to cloud vision APIs and building a chained multi-agent pipeline that produces structured reports. It is a hands-on lab covering five distint areas:
 
 | Area | Description |
 |---|---|
