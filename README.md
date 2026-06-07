@@ -167,11 +167,11 @@ Rather than parsing free-form text, the notebook forces the LLM to return JSON t
 
 ```python
 from pydantic import BaseModel
-from typing import List
+from typing import list 
 
 class ImageDescription(BaseModel):
     objects: List[str]
-    number_of_people: int
+    number_of_people: int 
     scene: str
     activity: str
     emotion: str
