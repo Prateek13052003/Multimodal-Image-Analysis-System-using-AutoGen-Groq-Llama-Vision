@@ -60,7 +60,7 @@ ollama pull qwen2.5:7b
 
 ## Core Concepts
 
-### 1. AutoGen — Multi-Agent Conversations
+### 1. AutoGen — Multi-Agent Conversations 
 
 [AutoGen](https://github.com/microsoft/autogen) is a Microsoft framework for building **conversational AI agents** that can talk to each other, use tools, and produce structured outputs.
 
