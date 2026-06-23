@@ -27,7 +27,7 @@ export default function Home() {
     setLoading(true);
 
     const response = await fetch(
-      "http://localhost:8000/api/analyze-image",
+      "https://multimodal-image-analysis-system-using.onrender.com/api/analyze-image",
       {
         method: "POST",
         body: formData,
